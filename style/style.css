@@ -179,4 +179,102 @@ testimonials {
 
 
 
+/* optional */
+.focus {
+  padding: 60px 20px;
+  text-align: center;
+  background: #fff;
+}
 
+.focus img {
+  margin-top: 20px;
+  width: 100%;
+  max-width: 600px;
+  border-radius: 20px;
+}
+ 
+.btn{
+  
+     font-weight: normal;
+    color: white;
+    background-color: #4E47FF;
+    border: none;
+    border-radius: 10px;
+    padding: 8px 20px;
+    bottom: auto;
+}
+
+
+
+
+
+/* contect  from section */
+
+.contact {
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+  padding: 60px 20px;
+  background-color: #eef1ff;
+}
+
+.contact-text {
+  font-size: 32px;
+  font-weight: bold;
+  max-width: 300px;
+}
+
+.contact-form {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  max-width: 400px;
+  width: 100%;
+}
+
+.contact-form input,
+.contact-form textarea {
+  padding: 10px;
+  border-radius: 8px;
+  border: 1px solid #ccc;
+  font-size: 16px;
+}
+
+
+
+
+
+/* logo setion */
+
+
+footer {
+  text-align: center;
+  padding: 40px 20px;
+  background-color: #fff;
+}
+
+.footer-logo {
+  font-size: 70px;
+  color: #3b49df;
+  font-weight: bold;
+
+}
+
+#jack1{
+    color: rgba(41, 36, 50, 50%);
+
+}
+footer nav {
+  margin-top: 10px;
+  
+}
+
+footer a {
+  margin: 0 10px;
+  color: #3b49df;
+  text-decoration: none;
+}
+
+.bijoy{
+  /* justify-content: space-around; */
+}
