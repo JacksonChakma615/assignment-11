@@ -264,6 +264,8 @@ footer {
     color: rgba(41, 36, 50, 50%);
 
 }
+
+}
 footer nav {
   margin-top: 10px;
   
@@ -271,10 +273,7 @@ footer nav {
 
 footer a {
   margin: 0 10px;
-  color: #3b49df;
+    color: rgba(41, 36, 50, 50%);
   text-decoration: none;
 }
 
-.bijoy{
-  /* justify-content: space-around; */
-}
