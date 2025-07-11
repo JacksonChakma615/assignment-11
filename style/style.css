@@ -76,7 +76,11 @@ nav{
     padding: 60px 20px;
 }
 
+#Explore{
+    /* color: #252432; */
+    color: rgba(41, 36, 50, 50%);
 
+}
  .action-left{
     max-width: 400px;
  }
@@ -106,7 +110,7 @@ nav{
        text-align: center;
        /* background-color: rgba(78, 71rgba(78, 71, 255, 0.1), 255, 0.1); */
        padding: 100px 0px ;
-       
+        }
 .box{
 
         display: flex;
@@ -117,16 +121,25 @@ nav{
             gap: 50px;
 }
 
-  }
+ 
 
 .contener {
     width: 80%;
     margin: 0 auto ;
     padding: 100px 0 ;
- 
+ border-radius: 16px;
 }
 
 .bg-cloer{
 
     background-color:rgba(78, 71, 255, 0.1) ;
+
 }
+
+
+.jack  {
+    color:#4f46e5;
+    font-size: 70px;
+    font-weight: bold;
+}
+
