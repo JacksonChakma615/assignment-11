@@ -20,6 +20,7 @@
     background-image: url(../Assets/Hero-bg.png);
     background-size: cover;   
     /* height: 600px;       */
+    padding: 200px 0px;
 
 }
 
@@ -27,8 +28,8 @@
 nav{
     display: flex;
     align-items: center;
-    justify-content: space-between;
-    padding: 20px 50px;
+    justify-content: space-around;
+    padding: 20px 0px;
 }    
 
 .nav-title{
@@ -88,10 +89,14 @@ nav{
 
 
  .action-right{
-    width: 300px;
+    /* width: 300px; */
     border-radius: 12px;
+    
  }
 
+ .action-right img{
+  border-radius: 24px;
+ }
 
  .Preview-btn{
     margin-top: 15px;
