@@ -98,3 +98,35 @@ nav{
  }
 
 
+
+ /*  Stats Section */
+
+  .jackson{
+
+       text-align: center;
+       /* background-color: rgba(78, 71rgba(78, 71, 255, 0.1), 255, 0.1); */
+       padding: 100px 0px ;
+       
+.box{
+
+        display: flex;
+            justify-content: space-evenly;
+            width: 50%;
+            justify-content: center;
+            margin: 0 auto;
+            gap: 50px;
+}
+
+  }
+
+.contener {
+    width: 80%;
+    margin: 0 auto ;
+    padding: 100px 0 ;
+ 
+}
+
+.bg-cloer{
+
+    background-color:rgba(78, 71, 255, 0.1) ;
+}
