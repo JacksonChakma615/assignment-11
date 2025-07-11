@@ -143,3 +143,40 @@ nav{
     font-weight: bold;
 }
 
+
+
+
+/* card section */
+
+
+.star{
+    text-align: center;
+}
+
+
+testimonials {
+  padding: 60px 20px;
+  background-color: #f5f7ff;
+  text-align: center;
+}
+
+.testimonial-grid {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+  flex-wrap: wrap;
+  margin-top: 20px;
+}
+
+.card {
+  background: #ffffff;
+  padding: 20px;
+  border-radius: 12px;
+  max-width: 250px;
+  box-shadow: 0 0 10px rgba(0,0,0,0.05);
+}
+
+
+
+
+
