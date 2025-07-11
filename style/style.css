@@ -3,6 +3,7 @@
   font-family: "Inter", sans-serif;
   font-optical-sizing: auto;
   font-style:normal;
+  background-color: ;
 }
 .raleway-normal {
   font-family: "Raleway", sans-serif;
@@ -148,6 +149,11 @@ nav{
 
 /* card section */
 
+
+
+.avatar-img{
+  border-radius: 50%;
+}
 
 .star{
     text-align: center;
